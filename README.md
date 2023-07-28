@@ -10,3 +10,5 @@ Node runtime/Express.js application.
 1. Built a node/express.js server that runs graphql by enabling #graphiql#
 2. Performed CRUD operation for non-RESTful apis on plain graphql without Apollo framework
 
+# Relevance?
+1. Projects like e-commerce, other projects that do not necessarily need constant heavy lifting of data from the database.
